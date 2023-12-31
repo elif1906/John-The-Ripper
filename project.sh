@@ -22,8 +22,8 @@ else
     sudo apt-get install john -y
 fi
 
-# Go to Leaked-Databases directory
-cd Leaked-Databases
+# Go to John-The-Ripper-main directory
+cd John-The-Ripper-main
 
 while true; do
     Title
