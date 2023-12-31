@@ -11,5 +11,4 @@ We are conducting an investigation using the John the Ripper tool to analyze the
 -For interface of the application using Bash Script
 -For hash generation online cracking decoder
 
-# Flow Chart
-1-flow-chart
+
