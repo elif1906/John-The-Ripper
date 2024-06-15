@@ -3,6 +3,13 @@
 
 ![john the ripper](png.png)
 
+
+![john the ripper]()
+
+
+![john the ripper](png.png)
+
+
 ## Overview
 This project demonstrates the use of John the Ripper on Kali Linux to analyze the effectiveness of password policies and protection measures. The project includes various cracking methods and provides a user-friendly interface for educational and informational purposes in the field of cybersecurity.
 
