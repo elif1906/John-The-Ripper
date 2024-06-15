@@ -1,18 +1,14 @@
 # John-The-Ripper
 
-
 ![john the ripper](png.png)
-
-
-![john the ripper](Ekran Resmi 2024-06-15 14.29.34.png)
-
-
-
-![john the ripper](Ekran Resmi 2024-06-15 14.30.02.png)
 
 
 ## Overview
 This project demonstrates the use of John the Ripper on Kali Linux to analyze the effectiveness of password policies and protection measures. The project includes various cracking methods and provides a user-friendly interface for educational and informational purposes in the field of cybersecurity.
+
+## Flow Chart diagram
+![john the ripper](flow.png)
+
 
 ## Features
 - Password cracking using John the Ripper
@@ -65,6 +61,10 @@ This project demonstrates the use of John the Ripper on Kali Linux to analyze th
 ## Usage
 - **Password Cracking**: Use the provided script and wordlists to perform dictionary attacks or brute-force attacks.
 - **Hash Analysis**: Analyze different types of hashes provided in the example files.
+
+## Result
+![john the ripper](graph.png)
+
 
 ## Disclaimer
 This project is for educational and informational purposes only. It is intended to understand cybersecurity fundamentals and hacking defense techniques.
