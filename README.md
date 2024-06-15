@@ -1,5 +1,9 @@
 # John-The-Ripper
 
+
+
+
+
 ## Overview
 This project demonstrates the use of John the Ripper on Kali Linux to analyze the effectiveness of password policies and protection measures. The project includes various cracking methods and provides a user-friendly interface for educational and informational purposes in the field of cybersecurity.
 
@@ -17,20 +21,36 @@ This project demonstrates the use of John the Ripper on Kali Linux to analyze th
 - **test.txt, test.zip**: Test files.
 
 ## Installation and Setup
-1. Clone the repository:
+
+### Download and Set Up Kali Linux on VMware Fusion
+1. **Download VMware Fusion:**
+    - Visit the [VMware Fusion](https://www.vmware.com/products/fusion.html) website and download the latest version.
+    - Install VMware Fusion on your Mac.
+
+2. **Download Kali Linux ISO:**
+    - Visit the [Kali Linux Downloads](https://www.kali.org/get-kali/#kali-virtual-machines) page.
+    - Download the Kali Linux VMware image.
+
+3. **Set Up Kali Linux on VMware Fusion:**
+    - Open VMware Fusion and select "New" to create a new virtual machine.
+    - Choose "Import an existing virtual machine."
+    - Locate the downloaded Kali Linux VMware image and follow the prompts to complete the setup.
+
+### Project Setup
+1. **Clone the repository:**
     ```sh
     git clone https://github.com/elif1906/John-The-Ripper.git
     ```
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
     ```sh
     cd John-The-Ripper
     ```
-3. Ensure you have Kali Linux installed.
-4. Install John the Ripper:
+3. **Install John the Ripper:**
     ```sh
+    sudo apt-get update
     sudo apt-get install john
     ```
-5. Run the project script:
+4. **Run the project script:**
     ```sh
     bash project.sh
     ```
