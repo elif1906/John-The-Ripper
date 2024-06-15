@@ -4,10 +4,11 @@
 ![john the ripper](png.png)
 
 
-![john the ripper]()
+![john the ripper](Ekran Resmi 2024-06-15 14.29.34.png)
 
 
-![john the ripper](png.png)
+
+![john the ripper](Ekran Resmi 2024-06-15 14.30.02.png)
 
 
 ## Overview
