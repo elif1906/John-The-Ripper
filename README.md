@@ -1,8 +1,7 @@
 # John-The-Ripper
 
 
-
-
+![john the ripper](png.png)
 
 ## Overview
 This project demonstrates the use of John the Ripper on Kali Linux to analyze the effectiveness of password policies and protection measures. The project includes various cracking methods and provides a user-friendly interface for educational and informational purposes in the field of cybersecurity.
@@ -53,7 +52,7 @@ This project demonstrates the use of John the Ripper on Kali Linux to analyze th
 4. **Run the project script:**
     ```sh
     bash project.sh
-    ```
+    ```^
 
 ## Usage
 - **Password Cracking**: Use the provided script and wordlists to perform dictionary attacks or brute-force attacks.
